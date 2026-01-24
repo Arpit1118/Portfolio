@@ -28,7 +28,7 @@ export function About() {
             <div className="relative">
               <div className="w-80 h-80 mx-auto rounded-full bg-gradient-to-r from-blue-500/20 to-purple-500/20 border-2 border-blue-400/30 p-4 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="/images/test.jpg" 
+                  src="images/test.jpg" 
                   alt="Arpit Madhu" 
                   className="w-full h-full object-cover rounded-full" style={{ objectPosition: "top" }}
                 />
