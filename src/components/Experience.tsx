@@ -13,7 +13,7 @@ export function Experience() {
       skills: ["Python", "Reinforcement Learning (RL)", "Evolutionary Strategies (ES)", "Data Pipeline Automation", "Model Evaluation", "GPU Optimization"]
     },
     {
-      title: "Working Student Data Analytics & Governance",
+      title: "Working Student Data Analytics and Governance",
       company: "Duagon",
       period: "Feb 2024 - July 2025",
       description: "Enhanced data accuracy and reporting reliability by cleaning datasets, defining KPIs, building Power BI dashboards, optimizing SQL queries, and developing Python ML models for predictive insights.",
