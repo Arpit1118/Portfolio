@@ -23,7 +23,7 @@ export function Experience() {
     {
       title: "Data Analyst",
       company: "Augmented Systems LLP",
-      period: "Feb 2022 - July 2022",
+      period: "Jan 2022 - Sep 2022",
       description: "Developed and maintained Power BI reports, dashboards, and KPI scorecards with DAX and SQL, ensuring data accuracy, performance, and actionable business insights.",
       icon: TrendingUp,
       skills: ["Power BI", "SQL", "Tableau", "Data Modeling", "Data Visualization", "Data Accuracy Verification", "Agile/Scrum Collaboration"]
@@ -31,7 +31,7 @@ export function Experience() {
     {
       title: "Project Intern",
       company: "Infolabz",
-      period: "May 2021 - June 2021",
+      period: "Feb 2021 - Jul 2021",
       description: "Built Python data pipelines to clean, transform, and analyze COVID-19 API data, performing EDA, visualizations, SQL-style Pandas queries, and delivering actionable reports.",
       icon: Briefcase,
       skills: ["Python", "Pandas", "Matplotlib", "Data Cleaning", "Data Transformation", "Time-Series Analysis", "Exploratory Data Analysis (EDA)"]
